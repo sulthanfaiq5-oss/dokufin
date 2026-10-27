@@ -1,0 +1,6 @@
+{
+  "name": "DOKU® — Digital Documentation & Accountability",
+  "description": "Studio Dokumentasi Kreatif & Pelaporan Data. Transform scattered event moments into structured stories, meaningful data, professional reports, and digital archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
